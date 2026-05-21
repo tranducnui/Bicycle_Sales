@@ -1,8 +1,9 @@
 # 🚲 Bicycle Store Sales Dashboard
 
 ## 📌 Giới thiệu
-Project mô phỏng hệ thống báo cáo BI cho chuỗi cửa hàng xe đạp,
-xây dựng theo quy trình end-to-end từ lưu trữ dữ liệu đến trực quan hóa.
+Xây dựng hệ thống báo cáo end-to-end cho chuỗi cửa hàng xe đạp
+Thiết kế database theo Galaxy Schema, xây dựng ETL pipeline xử lý và chuẩn hóa dữ liệu bằng SSIS
+Phân tích doanh thu theo tháng, tiểu bang, danh mục sản phẩm và hiệu suất nhân viên trên Power BI
 
 > ⚠️ Data trong project này là data mẫu tự tạo cho mục đích học tập.
 
